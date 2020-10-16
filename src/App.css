@@ -1,0 +1,8 @@
+.App {
+  display: grid;
+  max-width: 400px;
+  margin: 0 auto;
+  grid-template-rows: 48px auto 48px;
+  height: 100vh;
+  padding: 10px 20px;
+}

@@ -1,0 +1,12 @@
+.Navigation {
+  display: flex;
+  background: papayawhip;
+  height: 48px;
+}
+
+.Navigation button {
+  border: none;
+  display: block;
+  width: 100%;
+  background: hotpink;
+}

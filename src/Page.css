@@ -1,0 +1,6 @@
+.Page {
+  display: grid;
+  place-items: center;
+  background: plum;
+  color: white;
+}
